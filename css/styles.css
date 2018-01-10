@@ -23,12 +23,14 @@ li{
 }
 
 img#realCat{
+  display: none;
   margin-top: 20px;
   margin-left: 120px;
   text-align: center;
 }
 
 img#realDog{
+  display: none;
   margin-top: 20px;
   margin-left: 120px;
   text-align: center;
